@@ -1,5 +1,16 @@
 # Jamun-Calendar
-Calendar is a collection of Beautiful Activities which help others to make there Fully Custom Calendar View with Single and Multi Date Picker Functionality.
+This is a library which allow you to use Calendar feature easily. In this library you are provide with great UI desgin with best customization option.
+
+### Customize Options
+
+Developer allow to put Bundle of Custom tags to make Library as there own.
+
+* Can choose between multiple selector or single selector
+* Can set minimum and maximum date
+* Can set custome Theme color and Titles
+* Can Submit Predefined Dates
+* Can set selection customs 
+
 
 ### Introduction
 
